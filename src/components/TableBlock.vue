@@ -19,7 +19,49 @@
             {{ row.id }}
           </div>
           <div class="table__elem-to4ki">
-            <img src="../assets/image/SVG/212Combined Shape.svg" alt="" />
+            <svg
+              width="3px"
+              height="13px"
+              viewBox="0 0 3 13"
+              version="1.1"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+            >
+              <title>Combined Shape</title>
+              <g
+                id="Журнал"
+                stroke="none"
+                stroke-width="1"
+                fill="none"
+                fill-rule="evenodd"
+              >
+                <g
+                  id="Логистика-Copy-39"
+                  transform="translate(-314.000000, -316.000000)"
+                  fill="#A6B7D4"
+                >
+                  <g
+                    id="Group-2-Copy-7"
+                    transform="translate(254.000000, 222.000000)"
+                  >
+                    <g
+                      id="Group-Copy-3"
+                      transform="translate(1.000000, 78.000000)"
+                    >
+                      <g
+                        id="Group-12-Copy"
+                        transform="translate(59.000000, 16.000000)"
+                      >
+                        <path
+                          d="M1.5,0 C2.32842712,-1.52179594e-16 3,0.671572875 3,1.5 C3,2.32842712 2.32842712,3 1.5,3 C0.671572875,3 1.01453063e-16,2.32842712 0,1.5 C-1.01453063e-16,0.671572875 0.671572875,1.52179594e-16 1.5,0 Z M1.5,5 C2.32842712,5 3,5.67157288 3,6.5 C3,7.32842712 2.32842712,8 1.5,8 C0.671572875,8 1.01453063e-16,7.32842712 0,6.5 C-1.01453063e-16,5.67157288 0.671572875,5 1.5,5 Z M1.5,10 C2.32842712,10 3,10.6715729 3,11.5 C3,12.3284271 2.32842712,13 1.5,13 C0.671572875,13 1.01453063e-16,12.3284271 0,11.5 C-1.01453063e-16,10.6715729 0.671572875,10 1.5,10 Z"
+                          id="Combined-Shape"
+                        ></path>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </svg>
           </div>
           <div class="table__elem">
             <input
@@ -28,7 +70,55 @@
               @focus="openTableBlockPopup(row.id)"
             />
             <div class="table__elem-path">
-              <img src="../assets/image/SVG/1231231Path 4.svg" alt="" />
+              <svg
+                width="3px"
+                height="6px"
+                viewBox="0 0 3 6"
+                version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+              >
+                <title>Path 4</title>
+                <g
+                  id="Журнал"
+                  stroke="none"
+                  stroke-width="1"
+                  fill="none"
+                  fill-rule="evenodd"
+                >
+                  <g
+                    id="Логистика-Copy-37"
+                    transform="translate(-1530.000000, -320.000000)"
+                    fill="#C0C0C0"
+                  >
+                    <g
+                      id="Group-2-Copy-7"
+                      transform="translate(254.000000, 222.000000)"
+                    >
+                      <g
+                        id="Group-Copy-3"
+                        transform="translate(1.000000, 78.000000)"
+                      >
+                        <g
+                          id="Group-Copy-4"
+                          transform="translate(1141.000000, 5.000000)"
+                        >
+                          <g
+                            id="Group-2"
+                            transform="translate(125.000000, 1.000000)"
+                          >
+                            <polygon
+                              id="Path-4"
+                              transform="translate(10.500000, 17.000000) rotate(-90.000000) translate(-10.500000, -17.000000) "
+                              points="8 15.5 10.5 18.5 13 15.5"
+                            ></polygon>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </svg>
             </div>
             <table-block-popup
               v-if="isOpen === row.id"
@@ -47,7 +137,55 @@
               {{ row.type }}
             </div>
             <div class="table__elem-path">
-              <img src="../assets/image/SVG/1231231Path 4.svg" alt="" />
+              <svg
+                width="3px"
+                height="6px"
+                viewBox="0 0 3 6"
+                version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+              >
+                <title>Path 4</title>
+                <g
+                  id="Журнал"
+                  stroke="none"
+                  stroke-width="1"
+                  fill="none"
+                  fill-rule="evenodd"
+                >
+                  <g
+                    id="Логистика-Copy-37"
+                    transform="translate(-1530.000000, -320.000000)"
+                    fill="#C0C0C0"
+                  >
+                    <g
+                      id="Group-2-Copy-7"
+                      transform="translate(254.000000, 222.000000)"
+                    >
+                      <g
+                        id="Group-Copy-3"
+                        transform="translate(1.000000, 78.000000)"
+                      >
+                        <g
+                          id="Group-Copy-4"
+                          transform="translate(1141.000000, 5.000000)"
+                        >
+                          <g
+                            id="Group-2"
+                            transform="translate(125.000000, 1.000000)"
+                          >
+                            <polygon
+                              id="Path-4"
+                              transform="translate(10.500000, 17.000000) rotate(-90.000000) translate(-10.500000, -17.000000) "
+                              points="8 15.5 10.5 18.5 13 15.5"
+                            ></polygon>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </svg>
             </div>
           </div>
           <div class="table__elem">
@@ -226,9 +364,9 @@ export default {
   font-size: 12px;
   color: $light-grey-blue;
   cursor: pointer;
-  transition: .3s;
+  transition: 0.3s;
   &:hover {
-    transition: .3s;
+    transition: 0.3s;
     color: $light-navy;
   }
 }
